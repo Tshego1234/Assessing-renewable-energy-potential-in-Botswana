@@ -1,0 +1,1 @@
+This project assesses Solar radiation and Wind Strenght in particular regions within Botswana. It uses Data Science techniques and predicts future hourly values from 1-1-2023 to 6-12-2034. The Machine Learning models used are LSTM and Random Forest.  The Model we decided to deploy was one with the lowest RMSE per region within Botswana.
